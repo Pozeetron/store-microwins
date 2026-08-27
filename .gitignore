@@ -1,2 +1,8 @@
 .DS_Store
 *.zip
+screenshots-clean/
+screenshots-gp/
+icon-512.png
+icon-2048.png
+build-gp-screenshots.py
+google-play-listing.md
