@@ -110,7 +110,8 @@ Micro-Wins is not therapy and does not replace professional care. It’s a quiet
 `angelckisting@gmail.com`
 
 **Privacy policy URL:**  
-Host the static page `store-microwins/privacy/index.html` (Google Sites / GitHub Pages). Notion links are often rejected by Play Console.
+https://pozeetron.github.io/store-microwins/privacy/  
+(Enable GitHub Pages: Settings → Pages → Deploy from branch → `main` / `/ (root)`)
 
 **Privacy policy draft (host on a public URL):**
 
